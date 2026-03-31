@@ -14,4 +14,4 @@
 
 # Ignorar arquivos gerados pelo sistema
 Thumbs.db
-Desktop.ini
+Desktop.ini*.exe
