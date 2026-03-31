@@ -1,7 +1,7 @@
 # Atividade 1 – Algoritmos e Programação
 
 **Aluno:** Guilherme Barbosa  
-**Matrícula (RA):** 2691530  
+**Matrícula (RA):** -------  
 **Disciplina:** Algoritmos e Programação  
 **Professor:** Oswaldo Peres  
 **Data:** Março/2026  
