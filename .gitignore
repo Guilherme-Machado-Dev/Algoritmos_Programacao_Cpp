@@ -1,0 +1,17 @@
+# Ignorar executáveis e binários
+*.exe
+*.out
+*.obj
+
+# Ignorar arquivos temporários
+*.log
+*.tmp
+
+# Ignorar configurações locais
+.vscode/
+*.user
+*.suo
+
+# Ignorar arquivos gerados pelo sistema
+Thumbs.db
+Desktop.ini
