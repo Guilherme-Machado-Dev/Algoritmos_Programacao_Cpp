@@ -9,14 +9,14 @@
 ---
 
 ## Desafios escolhidos
-1. Desafio 1 – Cálculo da Média  
-2. Desafio 2 – Conversão de Temperatura  
-3. Desafio 3 – Área de um Círculo  
-4. Desafio 4 – Salário Bruto  
-5. Desafio 5 – Verificação de Idade  
-6. Desafio 6 – Classificação de Notas  
-7. Desafio 7 – Maior de Três Números  
-8. Desafio 8 – Triângulo  
+ Desafio 1 – Cálculo da Média  
+ Desafio 2 – Conversão de Temperatura  
+ Desafio 3 – Área de um Círculo  
+ Desafio 4 – Salário Bruto  
+ Desafio 5 – Verificação de Idade  
+ Desafio 6 – Classificação de Notas  
+ Desafio 7 – Maior de Três Números  
+ Desafio 8 – Triângulo  
 
 ---
 
