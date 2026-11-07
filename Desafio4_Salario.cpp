@@ -1,5 +1,6 @@
 #include <iostream>   // Biblioteca padrão para entrada e saída
 #include <vector>     // Biblioteca para usar vetores (listas dinâmicas)
+
 using namespace std;
 
 int main() {
